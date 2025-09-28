@@ -5,9 +5,10 @@
 		<Nullable>enable</Nullable>
         <LangVersion>13</LangVersion>
 		<BuiltInComInteropSupport>true</BuiltInComInteropSupport>
-		<Version>3.7.1</Version>
+		<Version>3.6.2</Version>
 		<AssemblyVersion></AssemblyVersion>
 		<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+        <PackageId>EstrellasDeEsperanza.AvaloniaDialogs</PackageId>
 		<Title>AvaloniaDialogs</Title>
 		<Authors>Ori Almagor</Authors>
 		<Description>A library wrapping DialogHost.Avalonia, providing a more convenient API and built-in common dialogs such as a Yes/No popup and a snackbar.</Description>
