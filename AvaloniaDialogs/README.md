@@ -2,6 +2,8 @@
 
 This library wraps [DialogHost.Avalonia](https://github.com/AvaloniaUtils/DialogHost.Avalonia/), providing a more convenient API and built-in common dialogs such as a Yes/No popup and a snackbar.
 
+This version of the Library supports .NET Standard and .NET 8.
+
 ## Quick Start
 
 1. Add the DialogHost styles to your `App.axaml`:
