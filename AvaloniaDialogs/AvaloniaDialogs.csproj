@@ -5,7 +5,7 @@
 		<Nullable>enable</Nullable>
         <LangVersion>13</LangVersion>
 		<BuiltInComInteropSupport>true</BuiltInComInteropSupport>
-		<Version>3.6.2</Version>
+		<Version>3.6.1</Version>
 		<AssemblyVersion></AssemblyVersion>
 		<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
         <PackageId>EstrellasDeEsperanza.AvaloniaDialogs</PackageId>
